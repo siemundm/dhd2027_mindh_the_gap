@@ -1,0 +1,75 @@
+id;label;labelType;concept_short;level
+1;Aufzeichnung ;prefLabel;Recording ;3
+2;Bilderfassung ;prefLabel;Imaging ;3
+3;Datenerkennung ;prefLabel;Data-Recognition ;3
+4;Entdeckung ;prefLabel;Discovering ;3
+5;Sammlung ;prefLabel;Gathering ;3
+6;Transkription ;prefLabel;Transcription ;3
+7;Umwandlung ;prefLabel;Conversion ;3
+8;Gestaltung ;prefLabel;Designing ;3
+9;Programmierung ;prefLabel;Programming ;3
+10;Schreiben ;prefLabel;Writing ;3
+11;Übersetzung ;prefLabel;Translation ;3
+12;Webentwicklung ;prefLabel;Web-Development ;3
+13;Annotieren ;prefLabel;Annotating ;3
+14;Bereinigung ;prefLabel;Cleanup ;3
+15;Bearbeitung ;prefLabel;Editing ;3
+16;Beziehungsanalyse ;prefLabel;Relational Analysis ;3
+17;Inhaltsanalyse ;prefLabel;Content Analysis ;3
+18;Netzwerkanalyse ;prefLabel;Network Analysis ;3
+19;Räumliche Analyse ;prefLabel;Spatial Analysis ;3
+20;Stilistische Analyse ;prefLabel;Stylistic Analysis ;3
+21;Strukturanalyse ;prefLabel;Structural Analysis ;3
+22;Visualisierung ;prefLabel;Visualisation ;3
+23;Kontextsetzung ;prefLabel;Contextualising ;3
+24;Modellierung ;prefLabel;Modelling ;3
+25;Theoretisierung ;prefLabel;Theorising ;3
+26;Archivierung ;prefLabel;Archiving ;3
+27;Identifizierung ;prefLabel;Identifying ;3
+28;Konservierung ;prefLabel;Preservation ;3
+29;Organisation ;prefLabel;Organising ;3
+30;Crowdsourcing ;prefLabel;Crowdsourcing ;3
+31;Kollaboration ;prefLabel;Collaboration ;3
+32;Kommentierung ;prefLabel;Commenting ;3
+33;Kommunikation ;prefLabel;Communicating ;3
+34;Veröffentlichung ;prefLabel;Publishing ;3
+35;Teilen ;prefLabel;Sharing ;3
+36;Bewertung ;prefLabel;Assessing ;3
+37;Community-Bildung ;prefLabel;Community-Building ;3
+38;Einführung ;prefLabel;Give-Overview ;3
+39;Lehre ;prefLabel;Teaching/Learning ;3
+40;Projektmanagement ;prefLabel;Project-Management ;3
+41;Artefakte ;prefLabel;Artefakte ;2
+42;Bibliographie ;prefLabel;Bibliographie ;2
+43;Computer ;prefLabel;Computer ;2
+44;Curricula ;prefLabel;Curricula ;2
+45;Daten ;prefLabel;Daten ;2
+46;Datei ;prefLabel;Datei ;2
+47;Bilder ;prefLabel;Bilder ;2
+48;3D-Bilder ;prefLabel;3D-Bilder ;2
+49;Infrastruktur ;prefLabel;Infrastruktur ;2
+50;Interaktion ;prefLabel;Interaktion ;2
+51;Sprache ;prefLabel;Sprache ;2
+52;Link ;prefLabel;Link ;2
+53;Literatur ;prefLabel;Literatur ;2
+54;Manuskript ;prefLabel;Manuskript ;2
+55;Karte ;prefLabel;Karte ;2
+56;Metadaten ;prefLabel;Metadaten ;2
+57;Methoden ;prefLabel;Methoden ;2
+58;Multimedia ;prefLabel;Multimedia ;2
+59;Multimodale Kommunikation ;prefLabel;Multimodale Kommunikation ;2
+60;benannte Entitäten (named entities) ;prefLabel;benannte Entitäten (named entities) ;2
+61;Personen ;prefLabel;Personen ;2
+62;Projekte ;prefLabel;Projekte ;2
+63;Forschung ;prefLabel;Forschung ;2
+64;Forschungsprozess ;prefLabel;Forschungsprozess ;2
+65;Forschungsergebnis ;prefLabel;Forschungsergebnis ;2
+66;Notenblätter ;prefLabel;Notenblätter ;2
+67;Software ;prefLabel;Software ;2
+68;Ton ;prefLabel;Ton ;2
+69;Standards ;prefLabel;Standards ;2
+70;Text ;prefLabel;Text ;2
+71;texttragende Gegenstände ;prefLabel;texttragende Gegenstände ;2
+72;Werkzeuge ;prefLabel;Werkzeuge ;2
+73;Video ;prefLabel;Video ;2
+74;virtuelle Forschungsumgebungen ;prefLabel;virtuelle Forschungsumgebungen ;2
